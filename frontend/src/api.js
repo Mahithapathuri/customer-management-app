@@ -1,6 +1,6 @@
 const API_BASE =
   import.meta.env.MODE === "development"
     ? "http://localhost:3001"
-    : " https://customer-management-app-qqyx.onrender.com";
+    : import.meta.env.VITE_API_BASE;
 
 export default API_BASE;
