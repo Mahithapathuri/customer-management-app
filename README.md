@@ -130,8 +130,8 @@ http://localhost:5173
 
 ## Live Links
 
-* **Frontend (Netlify):[** (https://mahita-customer-management-5f8a3d.netlify.app/)
-* **Backend (Render):** [[https://your-backend.onrender.com](https://your-backend.onrender.com)](https://customer-management-app-qqyx.onrender.com)
+* **Frontend (Netlify):[** https://mahita-customer-management-5f8a3d.netlify.app/
+* **Backend (Render):** [ https://your-backend.onrender.com)](https://customer-management-app-qqyx.onrender.com 
 
 ---
 
